@@ -1,4 +1,4 @@
-require './tokenize' # requires the file tokenize.rb from the same directory
+require './Simple Programs/Intermediate/tokenize' # requires the file tokenize.rb from the same directory
 
 def toMorse(string)
     result = ''
